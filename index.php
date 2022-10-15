@@ -118,7 +118,7 @@
         </div>
     </form>
 
-    <form action='' method='post' class='container bg-secondary bg-opacity-10 text-center border border-2 rounded mt-4 pb-2'>
+    <form action='' method='post' class='container bg-secondary bg-opacity-10 text-center border border-2 rounded mt-4 pb-2' style='min-height: 50px'>
        <?php
 
             try {
@@ -167,7 +167,7 @@
        ?>
     </form>
 
-    <form action='' method='post' class='container bg-success bg-opacity-50 text-center border border-success border-2 rounded mt-4 pb-2'>
+    <form action='' method='post' class='container bg-success bg-opacity-50 text-center border border-success border-2 rounded mt-4 pb-2' style='min-height: 50px'>
        <?php
 
             try {
